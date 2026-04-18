@@ -1,0 +1,7 @@
+user,post,likes,shares,time,hashtag
+A,P1,10,2,1,#fun
+B,P1,5,1,1,#fun
+C,P2,20,5,2,#tech
+A,P3,15,3,3,#fun
+D,P2,25,6,2,#tech
+E,P3,30,8,3,#fun
